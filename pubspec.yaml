@@ -74,7 +74,8 @@ flutter:
     - assets/pages/playui/
     - assets/pages/payment/
     - assets/pages/favorites/
-    - assets/pages/yourjourney
+    - assets/pages/yourjourney/
+    - assets/pages/selected/
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware
